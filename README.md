@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I'm a motivated Full Stack Developer with over 3 years of experience in the FinTech industry. I specialize in building and maintaining robust neo-banking applications. My expertise spans both backend development with **Spring Boot** and creating dynamic frontends with **Angular**. I thrive on delivering high-quality, scalable web applications, whether working independently or as part of a collaborative team.
+I'm a motivated Full Stack Developer with around 4 years of experience. I specialize in building and maintaining robust neo-banking applications. My expertise spans both backend development with **Spring Boot** and creating dynamic frontends with **Angular**. I thrive on delivering high-quality, scalable web applications, whether working independently or as part of a collaborative team.
 
 - 🔭 I'm currently contributing to the development of **Pointchain (CONFIA)**, a prominent US-based neo bank specializing in white-labeled banking solutions for emerging industries.
 - 🌱 I'm always exploring new technologies and deepening my understanding of system architecture and efficient problem-solving.
